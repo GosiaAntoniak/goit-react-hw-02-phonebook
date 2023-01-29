@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GosiaAntoniak/goit-react-hw-02-phonebook.git/static/css/main.9d817d01.css",
+    "main.js": "/GosiaAntoniak/goit-react-hw-02-phonebook.git/static/js/main.30d789bb.js",
+    "index.html": "/GosiaAntoniak/goit-react-hw-02-phonebook.git/index.html",
+    "main.9d817d01.css.map": "/GosiaAntoniak/goit-react-hw-02-phonebook.git/static/css/main.9d817d01.css.map",
+    "main.30d789bb.js.map": "/GosiaAntoniak/goit-react-hw-02-phonebook.git/static/js/main.30d789bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d817d01.css",
+    "static/js/main.30d789bb.js"
+  ]
+}
